@@ -6,4 +6,13 @@
 .quadrado {
     border: 0ch;
     border-top-color: aqua;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+.circulo {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
 }
